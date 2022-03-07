@@ -42,7 +42,7 @@
 }
 
 body {
-  background-color: #40C386;
+  background-color: #40C386 !important;
 }
 
 h1 {
